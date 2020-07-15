@@ -1,1 +1,1 @@
-SKM ETH2 JS Library
+# skm-eth2-js
