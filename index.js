@@ -1,4 +1,4 @@
-const Account = require("./pageages/account")
+const Account = require("./lib/account")
 
 class Skrumble {
     constructor(options){
